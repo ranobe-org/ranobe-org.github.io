@@ -1,7 +1,7 @@
 <img width="100%" src="https://github.com/ranobe-org/.github/raw/main/assets/bg.webp" alt="background">
 <div align="center">
   <h2><samp>read novels like no other with free access to multiple sources</samp></h2>
-  <samp>everyone is welcome to community of nerds</samp>
+  <samp>everyone is welcome to community of readers</samp>
   <br/><br/>
   <a href="https://github.com/ranobe-org/ranobe/releases/download/v0.0.1/ranobe.apk" title="Download">
       <img height='25' src="https://img.shields.io/badge/download-2da44e?style=flat&logo=android&logoColor=white" alt="Download" title="Download">
