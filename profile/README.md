@@ -3,7 +3,7 @@
   <h2><samp>read novels like no other with free access to multiple sources</samp></h2>
   <samp>everyone is welcome to community of readers</samp>
   <br/><br/>
-  <a href="https://github.com/ranobe-org/ranobe/releases/download/v0.0.3/ranobe.apk" title="Download">
+  <a href="https://github.com/ranobe-org/ranobe/releases/download/v0.0.4/ranobe.apk" title="Download">
       <img height='25' src="https://img.shields.io/badge/download-2da44e?style=flat&logo=android&logoColor=white" alt="Download" title="Download">
   </a>
   <a href="https://ranobe-org.github.io/.github/" title="Website">
