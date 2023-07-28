@@ -13,7 +13,7 @@
       <img height='25' src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Join Discord" title="Join Discord">
   </a>
   <a href="https://t.me/ranobeapp" title="Join Telegram">
-      <img height='30' src="https://img.shields.io/badge/telegram-1A9AD7?style=flat&logo=telegram&logoColor=white" alt="Join Telegram" title="Join Telegram">
+      <img height='25' src="https://img.shields.io/badge/telegram-1A9AD7?style=flat&logo=telegram&logoColor=white" alt="Join Telegram" title="Join Telegram">
   </a>
   <a href="https://github.com/ap-atul" title="Github">
       <img height='25' src="https://img.shields.io/badge/github-ffffff?style=flat&logo=github&logoColor=black" alt="Check Github" title="Check Github">
